@@ -17,7 +17,8 @@
   
 <h1>Todos os Projetos que fiz relacionados a GAMEDEV</h1>
 
-  - 👨‍💻 Alguns dos meus projetos estão disponíveis em [https://gamejolt.com/@Alexandre1_ac15/games](https://gamejolt.com/@Alexandre1_ac15/games)
+<p>Alguns dos meus projetos estão disponíveis em:</p>
+<a href="https://gamejolt.com/@Alexandre1_ac15/games">Game Jolt</a>
   
 <h3> Todos eles tem um link que te redireciona para o youtube, assim poderá ver como ficou o resultado do jogo. 
 Dos jogos que fiz, os cinco primeiros estão disponível para jogar.  </h3>
