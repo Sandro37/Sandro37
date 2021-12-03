@@ -30,4 +30,4 @@
 * https://github.com/Sandro37/Clone-MegaMan-Unity
 *  https://github.com/Sandro37/3D_Game_miniRPG
 * https://github.com/Sandro37/Samurai_2D
-* https://github.com/Sandro37/jogo_de_plataforma
+* https://github.com/Sandro37/jogo_de_plataforma.
